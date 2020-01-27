@@ -1,0 +1,25 @@
+body {
+    background-color: dodgerblue;
+    margin: 0;
+    font-family: helvetica, sans-serif;
+}
+
+#navbar {
+    background-color: white;
+}
+#signup-form {
+    background-color: white;
+    margin: auto;
+}
+
+.nav-links {
+    text-align: right;
+}
+
+.pictures {
+width: 30px;
+height: 30px;
+border-radius: 30px;
+}
+
+text-decoration

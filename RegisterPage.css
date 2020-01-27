@@ -1,0 +1,26 @@
+nav {
+    text-align: right;
+    padding: 50x;
+    margin: 20px;
+    text-decoration: dodgerblue;
+}
+
+form{
+    background-color: DodgerBlue;
+}
+
+h2 {
+    margin: 10px;
+}
+
+.signUp {
+    background-color: white;
+    text-align: center;
+    line-height: 2;
+    margin: auto;
+    width: 20%;
+    border: 50px;
+    padding: 1px;
+    text-decoration: underline
+
+}
